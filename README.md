@@ -6,4 +6,5 @@ Eventually I want to add a way to dynamically set weapons rarity in the F1 menu 
 To make it easier, you can copy the below line and put it in there:
 
 -- weapon spawn rarity (common, uncommon, rare)
-SWEP.Rarity					= "common"
+
+SWEP.Rarity = "common"
